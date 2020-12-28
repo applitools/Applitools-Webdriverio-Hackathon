@@ -54,7 +54,7 @@ You should see exactly what those differences are (highlighted in pink) in Appli
    
    2. Navigate to the recently cloned folder Applitools-WDIO-Hackathon.
    
-   3.  `npm ci`
+   3.  `npm ci` or `yarn install`
 
    4. Run one of the following commands from the terminal:
 
