@@ -1,4 +1,4 @@
-# Applitools-wWbdriverio-Hackathon
+# Applitools-Wedriverio-Hackathon
 
 ## Pre-Requisites
 1.  Install ChromeDriver from [here](https://chromedriver.chromium.org/downloads) if you are running on mac, you can also install it using the brew,
