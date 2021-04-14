@@ -44,7 +44,7 @@ You should see exactly what those differences are (highlighted in pink) in Appli
 
 ## Running the example:
  1. Download the example
-    * Option 1: `git clone https://github.com/applitools/Applitools-WDIO-Hackathon.git`
+    * Option 1: `git clone https://github.com/applitools/Applitools-Webdriverio-Hackathon.git`
     * Option 2: Download it as a Zip file and extract it
     
  2. Run the Project inside Visual Studio Code
